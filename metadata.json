@@ -1,0 +1,6 @@
+{
+  "name": "MiniKernel OS Simulator",
+  "description": "An interactive, college-level Operating System Simulator featuring Login, Dashboard, Process Management, CPU Scheduling (FCFS, SJF, Priority, RR with Gantt charts), Memory Management (First/Best/Worst Fit and Paging), File System, Terminal, System Call Simulator, and detailed Logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
